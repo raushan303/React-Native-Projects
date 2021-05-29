@@ -1,0 +1,9 @@
+1. expo init my-app
+2. yarn add @react-navigation/native
+3. expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+4. yarn add @react-navigation/stack
+5. yarn add @react-navigation/drawer
+6. yarn add @react-navigation/bottom-tabs
+7. yarn add native-base --save
+8. expo install expo-font
+9. yarn add react-native-paper

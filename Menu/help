@@ -1,0 +1,5 @@
+1. npm install -g expo-cli // node version v12.18.3
+2. expo init student 
+3. yarn start
+4. yarn add react-native-elements
+5. yarn add react-navigation@2.0.1
